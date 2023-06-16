@@ -1,0 +1,1 @@
+This repository contains the deployable assets for the Castle Argent Chronicles website.
